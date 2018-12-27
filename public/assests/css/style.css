@@ -1,0 +1,101 @@
+.logo{
+  width: 90px;
+  height: 90px;
+
+}
+.navbar{
+  background-color: white;
+  width: 100%;
+}
+.nav-item{
+    line-height: 45px;
+    font-size: 20px;
+    font-weight: 600;
+    user-select: none;
+    background: transparent;
+    border-width: initial;
+    border-style: none;
+    border-color: initial;
+    border-image: initial;
+    padding: 0px 0px;
+    transition: background 250ms ease 0s;
+}
+
+a.btn{
+  background-image: linear-gradient(273deg,#03469d, #0280cd, #76cde9, #b4dce4);
+  border: 1px solid #eee !important;
+  padding: 10px 25px 10px 25px;
+  margin-left: 45px;
+}
+
+
+
+
+.jumbotron{
+        background-image: url(assets/img/home-hero.png);
+        text-align: center;
+        color: white;
+        text-shadow: 2px 2px 4px #000000;
+        background-attachment: fixed;
+        background-size: cover;
+        padding-top: 200px;
+}
+
+section.about{
+  color: grey;
+  font-size: 20px;
+}
+
+img.about{
+  width: 100%;
+  height: 100%;
+}
+
+.doit{
+  padding: 10px 10px;
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+  background-color: #11cbe1;
+  }
+
+  section.services{
+    color: grey;
+  }
+
+  img.services2{
+    width: 100%;
+    height: 100%;
+  }
+
+
+  .services2{
+    color:white;
+    background: #5E6DB3;
+  }
+section.email{
+    background-color: #11cbe1;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+footer{
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+  background-image: linear-gradient(273deg,#03469d, #0280cd);
+}
+
+section.contact{
+  font-size: 20px;
+  color: grey;
+
+}
+
+div.contact{
+  color: grey;
+}
+
+section.tentang{
+  padding-top: 500px;
+}

@@ -1,0 +1,32 @@
+.login{
+	margin-top: 70px;
+	margin-bottom: 100px;
+   background-attachment: fixed;
+     background-size: cover;
+}
+input.btn{
+	background-image: linear-gradient(273deg,#03469d, #0280cd, #76cde9, #b4dce4);
+}
+
+.card{
+	width: 500px;
+	margin: auto;
+}
+
+button{
+	width: 455px;
+	margin-bottom: 3px;
+}
+
+small, a{
+	margin: auto;
+}
+
+.btn-group{
+	width: 500px;
+}
+
+div.is{
+	margin: auto;
+}
+

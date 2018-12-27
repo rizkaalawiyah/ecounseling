@@ -1,0 +1,9 @@
+.jumbotron{
+        background-image: url(assets/img/faq/faq-header.png);
+        text-align: center;
+        color: white;
+        text-shadow: 2px 2px 4px #000000;
+        background-attachment: fixed;
+        background-size: cover;
+        padding-top: 200px;
+}
